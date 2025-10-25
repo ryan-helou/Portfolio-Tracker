@@ -29,7 +29,7 @@ A personal portfolio website showcasing my projects, skills, and experience as a
 To run locally:
 
 ```
-git clone https://github.com/<your-username>/portfolio-website.git
+git clone https://github.com/ryan-helou/portfolio-website.git
 cd portfolio-website
 npm install
 npm run dev
@@ -38,11 +38,5 @@ npm run dev
 Then open http://localhost:5173 in your browser.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📬 CONTACT
-==========
 👤 Created by: **Ryan Helou**  
-📧 Email: [email removed]  
-🌍 Website: https://portfolio-website-virid-phi-86.vercel.app/
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
