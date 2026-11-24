@@ -12,7 +12,7 @@
 
 <br>
 
-Despite the folder name, this is not a personal portfolio website. It is a stock portfolio tracker: you type in a stock's ticker symbol (its short code, like AAPL) and how many shares you own, and the page looks up the current price, adds everything up, and shows how much you are up or down for the day. It works with US stocks and with stocks on the Toronto Stock Exchange.
+You type in a stock's ticker symbol (its short code, like AAPL) and how many shares you own, and the page looks up the current price, adds everything up, and shows how much you are up or down for the day. It works with US stocks and with stocks on the Toronto Stock Exchange.
 
 ## What you can do with it
 
