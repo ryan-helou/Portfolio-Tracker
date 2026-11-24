@@ -6,6 +6,8 @@
 
 <a href="https://portfolio-website-virid-phi-86.vercel.app"><img alt="Open portfolio-website-virid-phi-86.vercel.app" src="https://img.shields.io/badge/Open-portfolio--website--virid--phi--86.vercel.app-24292f?style=for-the-badge"></a>
 
+<!-- facts --><img alt="Markets: US + Toronto (TSX)" src="https://img.shields.io/badge/Markets-US_%2B_Toronto_(TSX)-24292f?style=for-the-badge"> <img alt="Sync: by a short key" src="https://img.shields.io/badge/Sync-by_a_short_key-24292f?style=for-the-badge"> <img alt="Account: none needed" src="https://img.shields.io/badge/Account-none_needed-24292f?style=for-the-badge">
+
 </div>
 
 <br>
